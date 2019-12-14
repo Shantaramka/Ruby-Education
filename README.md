@@ -1,4 +1,4 @@
-# hello-world
+# Hello world
 learning ways to git
 
 
