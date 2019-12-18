@@ -8,7 +8,7 @@ end
 
 #ex2 - Greet with some random
 def greet2(name)
-   hi = ["Hello", "Hi", "Ohai", "ZOMG"]
+  hi = ["Hello", "Hi", "Ohai", "ZOMG"]
   "#{hi.sample} #{name}!"
 end
 
