@@ -30,5 +30,3 @@ def leap_year?(year)
      res = false
    end
 end
-
-leap_year?(1900)
